@@ -1,0 +1,29 @@
+﻿{
+	"version": 1502332782,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/floors.png",
+		"images/player-sheet0.png",
+		"images/skin-sheet0.png",
+		"images/door1-sheet0.png",
+		"images/door1-sheet1.png",
+		"images/item1-sheet0.png",
+		"images/item1-sheet1.png",
+		"images/door2-sheet0.png",
+		"images/door2-sheet1.png",
+		"images/door2-sheet2.png",
+		"images/comp-sheet0.png",
+		"images/emy-sheet0.png",
+		"images/emyskin-sheet0.png",
+		"images/sprite-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
